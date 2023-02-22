@@ -1,0 +1,1 @@
+apenas um BOT pro meu chat da twitch usando Node e tmi.js
